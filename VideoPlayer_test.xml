@@ -1,0 +1,8 @@
+<prefab version="1.3.0">
+	<group name="VideoPlayer_test" pos="-1.7 1.5 -2.7">
+		<script pos="1.7 -1.5 2.7" file="MOD/videoplayer.lua">
+			<voxbox tags="screen" pos="-1.8 1.5 -3.1" prop="true" size=" 20 10 1"/>
+		</script>
+	</group>
+</prefab>
+

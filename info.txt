@@ -1,0 +1,12 @@
+name = Spawnable VideoPlayer (test)
+author = morgana
+description =[noupload] Test of a video player system, currently only plays bad apple, it 100% has the capacity for other videos (that aren't too long) but Im not sure what to add!
+tags=Spawn
+
+# If description contains [noupload] the description on Steam workshop will not be overwritten.
+# Available tags (comma-separated):
+# Map      - A custom map with no particular gameplay
+# Gameplay - Mod has a mission, objective or other gameplay
+# Asset    - A collection of assets for others to use
+# Vehicle  - Mod contains drivable, custom vehicles
+# Tool     - Mod adds a custom weapon or other tool
